@@ -1,0 +1,1415 @@
+<!DOCTYPE html><html lang="ko"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>팀호완 삼성점 | 카카오맵</title>
+    <meta property="og:title" content="팀호완 삼성점">
+<meta property="og:site_name" content="카카오맵">
+<meta property="og:description" content="서울 강남구 봉은사로86길 30 1층 (삼성동 148-15)">
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://map3.daum.net/staticmap/og?type=place&amp;srs=wcongnamul&amp;size=400x200&amp;m=512565%2C1114435&amp;service=placeweb">
+<meta property="og:url" content="https://place.map.kakao.com/1770731230">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="팀호완 삼성점">
+<meta name="twitter:description" content="서울 강남구 봉은사로86길 30 1층 (삼성동 148-15)">
+<meta name="twitter:image" content="http://map3.daum.net/staticmap/og?type=place&amp;srs=wcongnamul&amp;size=400x200&amp;m=512565%2C1114435&amp;service=placeweb">
+    <link href="//t1.daumcdn.net/localimg/localimages/07/common/kakaomap_favicon.ico" rel="shortcut icon">
+    
+        
+            <link rel="stylesheet" type="text/css" href="//t1.daumcdn.net/kakaomapweb/place/jscss/pc.87ba63dd.css">
+        
+    
+<style type="text/css">/* global */
+.screen_out{overflow:hidden;position:absolute;width:0;height:0;line-height:0;text-indent:-9999px}
+.show{display:block}
+.hide{display:none}
+
+/* PC Social Share */
+/* 2018-04-25 수정 시작 */
+.social_comm_p{position:absolute;z-index:1000;}
+.social_comm_p .img_social{display:block;overflow:hidden;font-size:0;background:url(//t1.daumcdn.net/daumtop_deco/images/common/social/img_social_200414.png) no-repeat 0 0;text-indent:-9999px}
+.social_comm_p .sns_comm_p{overflow:hidden;position:relative;border:1px solid #e2e2e2;font-size:11px;color:#222;background-color:#fff;letter-spacing:-0.025em}
+.social_comm_p .btn_close{position:absolute;top:5px;right:5px;width:24px;height:24px}
+.social_comm_p .ico_close{width:15px;height:16px;margin:5px;background-position:-150px 0}
+.social_comm_p .share_layer{position:relative;width:260px;min-height:228px}
+.social_comm_p .list_sns{overflow:hidden;margin:26px 14px 0}
+.social_comm_p .list_sns li{float:left;width:77px;height:78px}
+.social_comm_p .list_sns .link_sns{display:block;text-align:center;text-decoration:none}
+.social_comm_p .list_sns .link_sns .img_social{width:43px;height:43px;margin:0 auto 4px}
+.social_comm_p .list_sns .tit_sns{display:block;margin-top:7px;font-weight:normal;line-height:16px}
+.social_comm_p .list_sns .ico_sns_ks{background-position:-50px 0}
+.social_comm_p .list_sns .ico_sns_fb{background-position:-100px 0}
+.social_comm_p .list_sns .ico_sns_tw{background-position:0 -50px}
+.social_comm_p .list_sns .ico_sns_cafe{background-position:-100px -50px}
+.social_comm_p .list_sns .ico_sns_mail{background-position:-50px -50px}
+.social_comm_p .list_sns .ico_sns_kt{background-position:0 0}
+.social_comm_p .sns_copyurl{margin:-1px 26px 0;padding-bottom:23px}
+.social_comm_p .sns_copyurl .link_copyurl{display:block;overflow:hidden;position:relative;height:23px;line-height:23px;border:1px solid #d0d0d0;background-color:#f8f8f8;text-decoration:none}
+.social_comm_p .sns_copyurl .txt_url{display:block;overflow:hidden;padding:0 64px 0 7px;color:#2695f8;white-space:nowrap;text-overflow:ellipsis}
+.social_comm_p .sns_copyurl .txt_copy{position:absolute;top:0;right:0;width:47px;height:25px;border-left:1px solid #d0d0d0;background-color:#fff;text-align:center}
+.social_comm_p .copyurl_layer{width:254px;height:78px;text-align:center}
+.social_comm_p .inner_copyurl{display:table;width:100%;height:100%}
+.social_comm_p .inner_copyurl .desc_copyurl{display:table-cell;padding:18px 0 17px;line-height:19px;vertical-align:middle}
+.social_comm_p .sns_copyurl_type2 .tf_url{display:block;width:210px;height:25px;padding:0 10px;border:0 none;color:#2695f8;background-color:transparent}
+.social_comm_p .sns_copyurl_type2 .desc_tip{padding:13px 0;line-height:18px;color:#888;text-align:center;letter-spacing:0}
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5),
+only screen and (min-resolution: 144dpi),
+only screen and (min-resolution: 1.5dppx) {
+    .social_comm_p .img_social{background-image:url(//t1.daumcdn.net/daumtop_deco/images/common/social/rtn/img_social_200414.png);background-size:170px 100px}
+}</style></head>
+<body>
+    <div id="kakaoIndex">
+        <a href="#kakaoBody">본문 바로가기</a>
+        <a href="#kakaoGnb">메뉴 바로가기</a>
+    </div>
+    <div id="kakaoWrap" class="wrap_mapdetail"><div data-viewid="header" id="kakaoHead" class="head_mapdetail" role="banner">
+    <!--
+    <h1 class="logo_daum">
+        <a href="http://daum.net" id="kakaoLogo" data-logtarget data-logevent="daum_top" target="_blank"><img src="//t1.daumcdn.net/localimg/localimages/07/2017/pc/rtn/logo_daum.png" width="44" height="18" class="img_logo" alt="다음"></a>
+        <a href="https://map.kakao.com" id="kakaoServiceLogo" data-logtarget data-logevent="map_top" target="_blank">
+            <img src="//t1.daumcdn.net/localimg/localimages/07/2017/pc/rtn/logo_service.png" width="39" height="20" class="img_logo" alt="지도">
+        </a>
+    </h1>
+    -->
+    <h1 class="logo_daum">
+        <!-- 2018-07-23 수정 -->
+        <a href="https://map.kakao.com" id="#kakaoMapLogo" data-logtarget="" data-logevent="map_top" target="_blank"><img src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/rtn/logo_kakaomap.png" width="121" height="25" class="img_logo" alt="카카오맵" id="exifviewer-img-1" exifid="1656209132" oldsrc="http://t1.daumcdn.net/localimg/localimages/07/2018/pc/rtn/logo_kakaomap.png">
+        </a>
+    </h1>
+    <div data-viewid="header" data-root="" class="search_map">
+    <h2 class="screen_out">검색</h2>
+    <form id="searchForm" method="GET">
+        <fieldset>
+            <legend class="screen_out">검색어 입력 폼</legend>
+            <label for="searchKeyword" class="lab_search">카카오맵 지도 검색</label>
+            <input type="text" name="q" id="searchKeyword" class="tf_search" autocomplete="off" spellcheck="false">
+            <button type="submit" id="kakaoBtnSearch" class="btn_search">
+                <span class="ico_comm ico_search">검색</span>
+            </button>
+        </fieldset>
+        <blockquote id="searchKeywordSuggest" class="wrapper">
+            <div class="suggestBox box_sub" style="display: none;">
+                <div class="baseBox bg">
+                    <div class="list">
+                        <ul class="suggest_list_target"></ul>
+                    </div>
+                </div>
+                <div class="favorite_find"></div>
+                <div class="search_recent"></div>
+            </div>
+        <div class="suggestBox box_sub"><div class="baseBox bg"><div class="list"><ul class="suggest_list_target"></ul></div></div><div class="favorite_find"></div><div class="search_recent"></div></div></blockquote>
+    </form>
+</div>
+
+    <div id="kakaoGnb" data-viewid="navBar" data-root="" class="location_bar" role="navigation"><!-- 스크롤 내려 왔을 때 location_bar_on 추가 -->
+    <div class="inner_bar">
+        <div class="outer_header_share_container">
+            <div id="header_share_container" class="inner_header_share_container"><div class="social_comm_p hide"><div class="sns_comm_p share_layer">
+    <strong class="screen_out">SNS로 공유하기 펼쳐짐</strong>
+    <ul class="list_sns"><li>
+        <a href="#none" class="link_sns" data-handler="kakaotalk">
+        <span class="img_social ico_sns_kt">
+        </span>카카오톡</a></li><li>
+        <a href="#none" class="link_sns" data-handler="kakaostory">
+        <span class="img_social ico_sns_ks">
+        </span>카카오스토리</a></li><li>
+        <a href="#none" class="link_sns" data-handler="facebook">
+        <span class="img_social ico_sns_fb">
+        </span>페이스북</a></li><li>
+        <a href="#none" class="link_sns" data-handler="twitter">
+        <span class="img_social ico_sns_tw">
+        </span>트위터</a></li><li>
+        <a href="#none" class="link_sns" data-handler="mail">
+        <span class="img_social ico_sns_mail">
+        </span>다음메일</a></li><li style="display: none">
+        <a href="#none" class="link_sns" data-handler="daumcafe">
+        <span class="img_social ico_sns_cafe">
+        </span>다음카페</a></li></ul>
+    <div class="copyUrl"><div class="sns_copyurl">
+    <a href="#none" class="link_copyurl">
+    <span class="screen_out">현재페이지 URL복사</span>
+    <span class="txt_url">https://place.map.kakao.com/1770731230</span>
+    <span class="txt_copy">URL복사</span>
+    </a>
+    </div></div>
+    <button class="btn_close"><span class="img_social ico_close">공유목록 닫기</span></button>
+    </div><div class="sns_comm_p copyurl_layer hide">
+  <div class="inner_copyurl">
+  <p class="desc_copyurl">주소가 복사되었습니다.<br>원하는곳에 붙여넣기(Ctrl+V)해주세요.</p>
+  <button class="btn_close"><span class="img_social ico_close">공유목록 닫기</span>
+  </button>
+  </div></div></div></div>
+        </div>
+        <h2 class="tit_location" aria-hidden="true" data-logtarget="" data-logevent="name_bar,name">팀호완 삼성점</h2>
+        <strong class="screen_out">상세정보 퀵메뉴</strong>
+        <ul class="list_lnb">
+            <li>
+                <a href="https://map.kakao.com?urlX=512565&amp;urlY=1114435&amp;urlLevel=3&amp;itemId=1770731230&amp;q=%ED%8C%80%ED%98%B8%EC%99%84%20%EC%82%BC%EC%84%B1%EC%A0%90&amp;srcid=1770731230&amp;map_type=TYPE_MAP" target="_blank" class="link_lnb" data-logtarget="" data-logevent="name_bar,map">
+                    <span class="ico_comm ico_map">지도</span><!--  2018-11-28 추가 : 텍스트 감싸는 .ico_comm.ico_map 요소 추가  -->
+                </a>
+            </li>
+            <!-- 2018-11-28 추가 : 로드뷰, 즐겨찾기 위치이동으로 인한 추가 -->
+            <li>
+                <a href="https://map.kakao.com?srcid=1770731230&amp;confirmid=1770731230&amp;q=%ED%8C%80%ED%98%B8%EC%99%84%20%EC%82%BC%EC%84%B1%EC%A0%90&amp;rv=on" target="_blank" class="link_lnb" data-roadview="" data-logtarget="" data-logevent="name_bar,roadview">
+                    <span class="ico_comm ico_roadview">로드뷰</span><!--  2018-11-28 추가 : 텍스트 감싸는 .ico_comm.ico_roadview 요소 추가  -->
+                </a>
+            </li>
+            <li><!-- 2018-11-28 즐겨찾기 메뉴의 lst클래스 삭제 -->
+                <a href="#none" class="link_lnb link_bookmark " data-fid="" data-link="fav" data-logtarget="" data-logevent="name_bar,favorite">
+                    <span class="ico_comm ico_bookmark">즐겨찾기 추가</span>
+                    <span class="ico_num ico_num"><span class="screen_out">나의 즐겨찾기 폴더 개수</span></span>
+                </a>
+            </li>
+            <li data-share="">
+                <a href="#none" target="_blank" class="link_lnb" data-link="share">
+                    <span class="ico_comm ico_share">공유하기</span>
+                </a>
+            </li>
+            <!--// 2018-11-28 추가 : 공유하기 버튼 추가 -->
+            <li>
+                <a href="https://map.kakao.com?map_type=TYPE_MAP&amp;target=car&amp;rt=,,512565,1114435&amp;rt1=&amp;rt2=%ED%8C%80%ED%98%B8%EC%99%84%20%EC%82%BC%EC%84%B1%EC%A0%90&amp;rtIds=,1770731230" target="_blank" class="link_lnb" data-logtarget="" data-logevent="name_bar,route">
+                    <span class="ico_comm ico_route">길찾기</span><!--  2018-11-28 추가 : 텍스트 감싸는 .ico_comm.ico_route 요소 추가  -->
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+    <div data-viewid="headerProfile" data-root="">
+    <a href="#" target="_top" class="btn_login login">로그인</a>
+</div>
+
+</div>
+<hr class="hide">
+<div id="kakaoContent" role="main" class="cont_mapdetail">
+    <div class="dimmed_layer hide"></div>
+    <div id="mArticle">
+        <div data-viewid="basicInfo" class="cont_essential">
+    <div data-viewid="basicInfoTop" data-root="">
+    <div class="details_present" style="background:none;">
+        <a href="#none" class="link_present" data-logtarget="" data-logevent="info_pannel,main_pic">
+                <span class="bg_present" style="background-image:url('//t1.kakaocdn.net/thumb/T800x0.q80/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2FAE3736BDCD6F424A90EB6188FD0844B1')"></span>
+            <span class="frame_g"></span>
+        </a>
+    </div>
+    <div class="place_details">
+        <div class="inner_place">
+            <h2 class="tit_location">팀호완 삼성점</h2>
+            <div class="location_evaluation">
+                <span class="txt_location"><span class="screen_out">분류: </span>중식</span>
+                    <span class="ico_comm ico_dot"></span>
+                    <a href="#none" class="link_evaluation" data-cnt="169" data-target="comment" data-logtarget="" data-logevent="info_pannel,point">후기 <span class="color_b">3.5<span class="screen_out">점</span></span>
+                        <span class="color_g">(169)<span class="screen_out">개 후기</span></span>
+                    </a>
+                    <span class="ico_comm ico_dot"></span>
+                    <a href="#none" class="link_evaluation" data-cnt="753" data-target="review" data-logtarget="" data-logevent="info_pannel,review">
+                        리뷰 <span class="color_b">753<span class="screen_out">개</span></span>
+                    </a>
+            </div>
+            <strong class="screen_out">위치 정보 및 공유하기</strong>
+            <ul class="list_place">
+                <li>
+                    <a href="https://map.kakao.com?urlX=512565&amp;urlY=1114435&amp;urlLevel=3&amp;itemId=1770731230&amp;q=%ED%8C%80%ED%98%B8%EC%99%84%20%EC%82%BC%EC%84%B1%EC%A0%90&amp;srcid=1770731230&amp;map_type=TYPE_MAP" target="_blank" class="link_place" data-logtarget="" data-logevent="info_pannel,map_view"><span class="ico_comm ico_storemap"></span>지도</a></li>
+                <li>
+                    <a href="https://map.kakao.com?map_type=TYPE_MAP&amp;target=car&amp;rt=,,512565,1114435&amp;rt1=&amp;rt2=%ED%8C%80%ED%98%B8%EC%99%84%20%EC%82%BC%EC%84%B1%EC%A0%90&amp;rtIds=,1770731230" target="_blank" class="link_place" data-logtarget="" data-logevent="info_pannel,route"><span class="ico_comm ico_route"></span>길찾기</a>
+                </li>
+                <li>
+                        <a href="https://map.kakao.com?srcid=1770731230&amp;confirmid=1770731230&amp;q=%ED%8C%80%ED%98%B8%EC%99%84%20%EC%82%BC%EC%84%B1%EC%A0%90&amp;rv=on" class="link_place" target="_blank" data-logtarget="" data-logevent="info_pannel,roadview" data-roadview=""><span class="ico_comm ico_roadmap"></span>로드뷰</a>
+                </li>
+                <li class="lst">
+                    <a href="#none" class="link_place" data-logevent="info_pannel,share"><span class="ico_comm ico_share"></span>공유하기</a>
+                    <div data-viewid="snsShare" data-root="" class="detail_share">
+</div>
+                    <div class="place_share_container" id="place_share_container"><div class="social_comm_p hide"><div class="sns_comm_p share_layer">
+    <strong class="screen_out">SNS로 공유하기 펼쳐짐</strong>
+    <ul class="list_sns"><li>
+        <a href="#none" class="link_sns" data-handler="kakaotalk">
+        <span class="img_social ico_sns_kt">
+        </span>카카오톡</a></li><li>
+        <a href="#none" class="link_sns" data-handler="kakaostory">
+        <span class="img_social ico_sns_ks">
+        </span>카카오스토리</a></li><li>
+        <a href="#none" class="link_sns" data-handler="facebook">
+        <span class="img_social ico_sns_fb">
+        </span>페이스북</a></li><li>
+        <a href="#none" class="link_sns" data-handler="twitter">
+        <span class="img_social ico_sns_tw">
+        </span>트위터</a></li><li>
+        <a href="#none" class="link_sns" data-handler="mail">
+        <span class="img_social ico_sns_mail">
+        </span>다음메일</a></li><li style="display: none">
+        <a href="#none" class="link_sns" data-handler="daumcafe">
+        <span class="img_social ico_sns_cafe">
+        </span>다음카페</a></li></ul>
+    <div class="copyUrl"><div class="sns_copyurl">
+    <a href="#none" class="link_copyurl">
+    <span class="screen_out">현재페이지 URL복사</span>
+    <span class="txt_url">https://place.map.kakao.com/1770731230</span>
+    <span class="txt_copy">URL복사</span>
+    </a>
+    </div></div>
+    <button class="btn_close"><span class="img_social ico_close">공유목록 닫기</span></button>
+    </div><div class="sns_comm_p copyurl_layer hide">
+  <div class="inner_copyurl">
+  <p class="desc_copyurl">주소가 복사되었습니다.<br>원하는곳에 붙여넣기(Ctrl+V)해주세요.</p>
+  <button class="btn_close"><span class="img_social ico_close">공유목록 닫기</span>
+  </button>
+  </div></div></div></div>
+                </li>
+            </ul>
+
+            <a href="#none" class="link_bookmark " data-fid="" data-logtarget="" data-logevent="info_pannel,favorite">
+                <span class="ico_comm ico_bookmark">즐겨찾기 추가</span>
+                <span class="ico_num ico_num"><span class="screen_out">나의 즐겨찾기 폴더 개수</span></span>
+            </a>
+
+        </div>
+    </div>
+    <div class="details_rest">
+        <strong class="screen_out">기타 메뉴</strong>
+        <ul class="list_rest">
+            <li>
+                <a href="#none" class="link_rest" data-type="print" data-logtarget="" data-logevent="right_etc,print">
+                    <span class="ico_comm ico_print">프린트하기</span>
+                </a>
+            </li>
+            <li>
+                <a href="#none" class="link_rest" data-type="roughmap" data-logtarget="" data-logevent="right_etc,simplemap">
+                    <span class="ico_comm ico_makemap">약도 만들기</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+    <div data-viewid="basicInfo" data-root="" class="details_placeinfo">
+    <h3 class="tit_subject">상세정보</h3>
+    <div class="placeinfo_default">
+        <h4 class="tit_detail"><span class="ico_comm ico_address">위치</span></h4>
+        <div class="location_detail">
+            <span class="txt_address">서울 강남구
+                봉은사로86길 30
+                1층 (우)06165</span>
+            <span class="txt_addrnum">지번<span class="bg_bar"></span>삼성동 148-15</span>
+        </div>
+    </div>
+        <div class="placeinfo_default">
+            <h4 class="tit_detail"><span class="ico_comm ico_operation">운영시간 안내</span></h4>
+            <div class="location_detail openhour_wrap"><!-- btn_more 클릭 했을 때 open_on 추가 -->
+                <div class="location_present">
+                                <strong class="tit_operation fst">
+                                        <span class="open_before">영업전</span>
+                                </strong>
+                                
+                                    <ul class="list_operation">
+                                            <li>
+                                                <span class="txt_operation">매일 <span class="time_operation">11:30 ~ 21:30</span>
+                                                
+                                                </span>
+                                           </li>
+                                            <li>
+                                                <span class="txt_operation">월~금 브레이크타임 <span class="time_operation">15:00 ~ 17:30</span>
+                                                
+                                                </span>
+                                                        <a href="#none" class="btn_more" data-logevent="main_info,more_timeinfo"><span class="ico_comm ico_more">더보기</span></a>
+                                           </li>
+                                    </ul>
+                </div>
+                    <div class="fold_floor" style="top: 65px;">
+                        <div class="inner_floor">
+                                    <strong class="tit_operation fst">영업시간</strong>
+                                    
+                                        <ul class="list_operation">
+                                                <li>매일 <span class="time_operation">11:30 ~ 21:30</span>
+                                                    
+                                                </li>
+                                                <li>월~금 브레이크타임 <span class="time_operation">15:00 ~ 17:30</span>
+                                                    
+                                                </li>
+                                                <li>토,일 브레이크타임 <span class="time_operation">15:00 ~ 17:00</span>
+                                                    
+                                                </li>
+                                        </ul>
+                            <a href="#none" class="btn_close">
+                                <span class="ico_comm ico_close">닫기</span>
+                            </a>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <div class="placeinfo_default placeinfo_homepage">
+            <h4 class="tit_detail"><span class="ico_comm ico_homepage">홈 페이지</span></h4>
+            <div class="location_detail ">
+                <div class="location_present">
+                    <a href="http://www.instagram.com/timhowan_korea" target="_blank" class="link_homepage" data-logtarget="" data-logevent="main_info,website">www.instagram.com/timhowan_korea</a>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="placeinfo_default placeinfo_contact">
+            <h4 class="tit_detail"><span class="ico_comm ico_contact">연락처</span></h4>
+            <div class="location_detail "><!-- btn_more 클릭 했을 때 open_on 추가 -->
+                <div class="location_present">
+                    <span class="num_contact"><span class="txt_contact">0507-1374-3082</span><span class="color_g"> 대표번호</span></span>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="placeinfo_default">
+            <h4 class="tit_detail"><span class="ico_comm ico_delivery">예약, 배달, 포장</span></h4>
+            <div class="location_detail">예약가능, 배달가능, 포장가능</div>
+        </div>
+        <div class="placeinfo_default">
+            <h4 class="tit_detail"><span class="ico_comm ico_broadcasting">방송</span></h4>
+            <div class="location_detail">
+                    <span class="txt_broadcasting">
+                        <a href="http://search.daum.net/search?q=iHQ%EB%A7%9B%EC%9E%88%EB%8A%94%20%EB%85%80%EC%84%9D%EB%93%A4286%ED%9A%8C" target="_blank" class="link_broadcasting" data-logtarget="" data-logevent="main_info,tvinfo">
+                            iHQ 맛있는 녀석들 286회
+                        </a>
+                        <span class="txt_date">2020.08.14.</span>
+                    </span>
+            </div>
+        </div>
+        <div class="placeinfo_default placeinfo_facility">
+            <h4 class="tit_facility"><span class="ico_comm ico_installation"></span>시설정보</h4>
+            <ul class="list_facility">
+                    <li>
+                        <span class="ico_comm ico_nowifi"></span>
+                        <span class="color_g">WIFI<span class="screen_out">없음</span></span>
+                    </li>
+                    <li>
+                        <span class="ico_comm ico_noanimal"></span>
+                        <span class="color_g">동물출입<span class="screen_out">금지</span></span>
+                    </li>
+                    <li>
+                        <span class="ico_comm ico_parking"></span>
+                        <span class="color_g">주차</span>
+                    </li>
+                    <li>
+                        <span class="ico_comm ico_handicapped"></span>
+                        <span class="color_g">장애시설</span>
+                    </li>
+                    <li>
+                        <span class="ico_comm ico_noplayroom"></span>
+                        <span class="color_g">놀이방<span class="screen_out">시설 없음</span></span>
+                    </li>
+                    <li>
+                        <span class="ico_comm ico_nosmoking"></span>
+                        <span class="color_g">흡연실<span class="screen_out">시설 없음</span></span>
+                    </li>
+            </ul>
+        </div>
+    <span class="info_revise">업데이트 <span class="date_revise">2022.06.11.</span> <span class="bg_bar">|</span> <a href="#" class="link_fiy" data-fiytype="detail" data-logtarget="" data-logevent="main_info,FIY">틀린정보 신고</a></span>
+</div>
+</div>
+        <div data-viewid="ownerCertification" class="cont_banner" data-root="">
+    <div class="box_banner">
+            <span class="ico_comm ico_owner"></span>매장주가 관리하는 장소입니다.
+    </div>
+</div>
+
+        
+        
+        
+        
+        <div data-viewid="menuInfo" data-root="" class="cont_menu">
+    <div class="particular_head">
+        <h3 class="tit_subject">메뉴</h3>
+        <span class="txt_updated">업데이트 <span class="txt_date"> 2022.06.01.</span></span>
+    </div>
+        <div class="wrap_list">
+            <div class="present_menu present_menu2">
+                    <a href="#none" data-type="menuboard" data-pidx="0" class="view_menu" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C320x110/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Fc8e49c39fea7a02574392146ca41e7c42d30032e542c3bb56d20eade361d36e9')" data-logtarget="" data-logevent="additional_info,menu,image1">
+                        <span class="frame_g"></span>
+                    </a>
+                    <a href="#none" data-type="menuboard" data-pidx="1" class="view_menu" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C320x110/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F9e7dcc9461acd72023d1bf1c016c1d5d31d38b8c%3Foriginal')" data-logtarget="" data-logevent="additional_info,menu,image2">
+                                <span class="menu_num">
+                                    <span class="txt_num"><span class="ico_comm ico_menu"> 갯수: </span>15</span>
+                                </span>
+                        <span class="frame_g"></span>
+                    </a>
+            </div>
+        </div>
+    <strong class="screen_out">메뉴 목록</strong>
+    <ul class="list_menu" data-maxpage="1">
+            <li class="nophoto_type menu_fst" data-page="1"><!-- 이미지가 있는 경우 -->
+                <div class="info_menu">
+                    <em class="screen_out">명: </em>
+                    <span class="loss_word">차슈바오 번</span>
+                    <em class="price_menu"><span class="screen_out">가격: </span>8,000</em>
+                    
+                </div>
+            </li>
+            <li class="nophoto_type" data-page="1"><!-- 이미지가 있는 경우 -->
+                <div class="info_menu">
+                    <em class="screen_out">명: </em>
+                    <span class="loss_word">샤오마이 (3pcs)</span>
+                    <em class="price_menu"><span class="screen_out">가격: </span>6,500</em>
+                    
+                </div>
+            </li>
+            <li class="nophoto_type" data-page="1"><!-- 이미지가 있는 경우 -->
+                <div class="info_menu">
+                    <em class="screen_out">명: </em>
+                    <span class="loss_word">차슈 라이스 롤 (3pcs)</span>
+                    <em class="price_menu"><span class="screen_out">가격: </span>8,000</em>
+                    
+                </div>
+            </li>
+            <li class="nophoto_type" data-page="1"><!-- 이미지가 있는 경우 -->
+                <div class="info_menu">
+                    <em class="screen_out">명: </em>
+                    <span class="loss_word">사천식 완탕 (4pcs)</span>
+                    <em class="price_menu"><span class="screen_out">가격: </span>9,000</em>
+                    
+                </div>
+            </li>
+            <li class="nophoto_type opened_last" data-page="1"><!-- 이미지가 있는 경우 -->
+                <div class="info_menu">
+                    <em class="screen_out">명: </em>
+                    <span class="loss_word">연잎밥</span>
+                    <em class="price_menu"><span class="screen_out">가격: </span>8,000</em>
+                    
+                </div>
+            </li>
+    </ul>
+</div>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+            <div data-viewid="visitor" data-root="" class="cont_visitor">
+        <h3 class="tit_subject">방문자 데이터</h3>
+        <p class="txt_visitor">카카오의 장소 기반 빅데이터를 분석한 정보입니다. (2022.09.02. 업데이트)</p>
+        <div class="popular_statistics">
+            <div class="visit_popular">
+                <h4 class="tit_popular">시간별 인기도</h4>
+                <ul class="day_legend">
+                    <li><span class="ico_comm ico_weekly"></span>주평균</li>
+                    <li>
+                        <span class="ico_comm ico_day"></span>
+                        <span class="day_txt">금요일 평균</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="dayChart_wrap">
+                <canvas id="dayChart" width="640" height="210" style="display: block; height: 210px; width: 640px;"></canvas>
+            </div><!-- 시간별 인기도 그래프 영역 -->
+            <ul class="list_day">
+                <li data-day="sunday">
+                    <a href="#none" class="link_day">일</a>
+                </li>
+                <li data-day="monday">
+                    <a href="#none" class="link_day">월</a>
+                </li>
+                <li data-day="tuesday">
+                    <a href="#none" class="link_day">화</a>
+                </li>
+                <li data-day="wednesday">
+                    <a href="#none" class="link_day">수</a>
+                </li>
+                <li data-day="thursday">
+                    <a href="#none" class="link_day">목</a>
+                </li>
+                <li data-day="friday" class="on">
+                    <a href="#none" class="link_day">금</a>
+                </li>
+                <li data-day="saturday">
+                    <a href="#none" class="link_day">토</a>
+                </li>
+            </ul>
+            <div class="visit_popular">
+                <h4 class="tit_popular">연령별 / 성별 인기도</h4>
+            </div>
+            <div class="charts_wrap">
+                <strong class="screen_out">연령별 인기도 그래프</strong>
+                <div class="ageChart_wrap">
+                    <canvas id="ageChart" width="350" height="170" style="display: block; height: 170px; width: 350px;"></canvas>
+                </div><!-- 연령별 인기도 그래프 영역(임시 스타일) -->
+                <strong class="screen_out">성별 인기도 그래프</strong>
+                <div class="genderChart_wrap">
+                    <div class="chart_gender">
+                        <canvas id="genderChart" width="146" height="146" style="display: block; height: 146px; width: 146px;"></canvas>
+                    </div><!-- 성별 인기도 그래프 영역(임시 스타일) -->
+                    <ul class="gender_legend">
+                        <li><span class="ico_comm ico_male"></span>남성</li>
+                        <li><span class="ico_comm ico_female"></span>여성</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+        <div data-viewid="photoSection" data-root="" class="cont_photo">
+    <div class="particular_head">
+        <h3 class="tit_subject">사진</h3>
+        
+        <div class="wrap_btn">
+        </div>
+    </div>
+        <div class="photo_area">
+            <ul class="list_photo photo_type5">
+        <li class="size_l">
+            <!-- 사진 2장 부터 클래스 size_l 추가 -->
+            <a href="#none" class="link_photo" data-pidx="0" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C320x320/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Ffiy_reboot%2Fplace%2FAE3736BDCD6F424A90EB6188FD0844B1')" data-logtarget="" data-logevent="photo,photo_view">
+                <span class="frame_g"></span>
+            </a>
+        </li>
+        <li class="">
+            <!-- 사진 2장 부터 클래스 size_l 추가 -->
+            <a href="#none" class="link_photo" data-pidx="1" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C160x160/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Fc863adc226a9640f7d97ebed6e2db9ee5fea955a%3Foriginal')" data-logtarget="" data-logevent="photo,photo_view">
+                <span class="frame_g"></span>
+            </a>
+        </li>
+        <li class="">
+            <!-- 사진 2장 부터 클래스 size_l 추가 -->
+            <a href="#none" class="link_photo" data-pidx="2" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C160x160/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F71da774c3be4bf92b0cb666cfe62bc01b1454bfe%3Foriginal')" data-logtarget="" data-logevent="photo,photo_view">
+                <span class="frame_g"></span>
+            </a>
+        </li>
+        <li class="">
+            <!-- 사진 2장 부터 클래스 size_l 추가 -->
+            <a href="#none" class="link_photo" data-pidx="3" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C160x160/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2Fdcbd20f29e0039c9164dab987220a32a8ecc77ec%3Foriginal')" data-logtarget="" data-logevent="photo,photo_view">
+                <span class="frame_g"></span>
+            </a>
+        </li>
+        <li class="">
+            <!-- 사진 2장 부터 클래스 size_l 추가 -->
+            <a href="#none" class="link_photo" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C160x160/?fname=http%3A%2F%2Ft1.daumcdn.net%2Flocal%2FkakaomapPhoto%2Freview%2F796327621447a3f073232597ef88fa482d9ea601%3Foriginal')" data-logtarget="" data-logevent="photo,photo_view">
+                        <span class="more_photo">
+                            <span class="num_photo">+13039</span>
+                        </span>
+                <span class="frame_g"></span>
+            </a>
+        </li>
+</ul>
+
+        </div>
+            <strong class="screen_out">분류</strong>
+            <ul class="list_category">
+                    <li class="on">
+                        <a href="#none" class="link_tag" data-category="all" data-logtarget="" data-logevent="photo,tag,전체">
+                            전체
+                        </a>
+                    </li><!-- 선택시 클래스 on 추가 -->
+                    <li>
+                        <a href="#none" class="link_tag" data-category="음식" data-logtarget="" data-logevent="photo,tag,음식">
+                            
+                            #음식
+                        </a>
+                    </li><!-- 선택시 클래스 on 추가 -->
+                    <li>
+                        <a href="#none" class="link_tag link_tag2" data-category="메뉴판" data-logtarget="" data-logevent="photo,tag,메뉴판">
+                            
+                            #메뉴판
+                        </a>
+                    </li><!-- 선택시 클래스 on 추가 -->
+            </ul>
+</div>
+        <div data-viewid="commentRate" data-root="">
+  <div class="cont_grade">
+    <div class="rate_intro"> 
+      <a href="#none" class="link_profile">
+      </a>
+      <p class="desc_grade">이 장소의 후기를 남겨주세요.</p>
+      <div class="grade_rate">
+        <div class="grade_star size_l">
+          <span class="ico_star star_rate"> <span class="ico_star inner_star" style="width:0%"></span></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+        <div data-viewid="comment" data-root="" class="cont_evaluation  ">
+		<strong class="total_evaluation">전체 <span class="color_b">169</span></strong>
+		<div class="ahead_info">
+			<strong class="screen_out">후기 요약</strong>
+			<div class="grade_star">
+				<em class="num_rate">3.5<span class="txt_score">점</span></em>
+				<span class="ico_star star_rate">
+					<span class="ico_star inner_star" style="width:70%"></span>
+				</span>
+			</div>
+		</div>
+			<strong class="screen_out">추천 포인트</strong>
+			<div class="view_likepoint">
+							<span class="chip_likepoint chip_type1">
+									<span class="ico_comm ico_like3"></span>
+									<span class="txt_likepoint">맛</span>
+									<span class="num_likepoint">2</span>
+							</span>
+							<span class="chip_likepoint chip_type2">
+									<span class="ico_comm ico_like3"></span>
+									<span class="txt_likepoint">가성비</span>
+									<span class="num_likepoint">1</span>
+							</span>
+							<span class="chip_likepoint chip_type3">
+									<span class="ico_comm ico_like3"></span>
+									<span class="txt_likepoint">친절</span>
+									<span class="num_likepoint">1</span>
+							</span>
+							<span class="chip_likepoint chip_type4">
+									<span class="ico_comm ico_like3"></span>
+									<span class="txt_likepoint">분위기</span>
+									<span class="num_likepoint">1</span>
+							</span>
+			</div>
+	<div class="evaluation_review">
+		<strong class="screen_out">후기 리스트</strong>
+		<ul class="list_evaluation">
+				<li data-id="6161792" data-ismy="false" data-userid="l6h7ti" class="" data-is-block="false">
+				  <a href="javascript:void(0);" class="profile_info" data-username="유정수" data-ori="https://p.kakaocdn.net/th/talkp/wnkR1g7Hnz/shTfW1KNPGz2zWbTsInhH1/o2izza_640x640_s.jpg">
+				        <img src="//t1.kakaocdn.net/thumb/C48x48.q80/?fname=https%3A%2F%2Fp.kakaocdn.net%2Fth%2Ftalkp%2FwnkR1g7Hnz%2FshTfW1KNPGz2zWbTsInhH1%2Fo2izza_640x640_s.jpg" width="48" height="48" class="thumb_g" alt="" onerror="this.style.display='none'">
+				
+				  </a>
+				  <div class="unit_info">
+				    <em class="screen_out">작성자 : </em>
+				    <a href="#none" class="link_user">유정수</a>
+				    <span class="bg_bar"></span>
+				    <span class="txt_item">후기</span>
+				    <span class="txt_desc">156</span>
+				    <span class="txt_item">별점평균</span>
+				    <span class="txt_desc">3.9</span>
+				      <span class="bg_bar"></span>
+				    <span class="screen_out">최종수정일 : </span>
+				    <span class="time_write">2022.09.02.</span>
+				  </div>
+				  <div class="star_info">
+				    <div class="grade_star size_s">
+				      <span class="ico_star star_rate">
+				        <span class="ico_star inner_star" style="width:100%;"></span>
+				      </span>
+				    </div>
+				  </div>
+				  <div class="comment_info">
+				      <p class="txt_comment"><span></span><button type="button" class="btn_fold">더보기</button></p>
+				      <div class="append_item">
+				        <a href="#none" class="link_like">
+				          <span class="ico_comm ico_like"></span> 좋아요 <span class="num_g" style="display:none;">0</span>
+				        </a>
+				      </div>
+				  </div>
+				    <div class="wrap_util">
+				      <button type="button" class="btn_util">
+				        <span class="ico_comm ico_more">메뉴 더보기</span>
+				      </button>
+				      <div class="layer_util" data-commentid="6161792">
+				        <ul class="list_opt">
+				            <li><a href="#none" data-id="spamLink" class="link_util">신고</a></li>
+				        </ul>
+				      </div>
+				    </div>
+				</li>
+				<li data-id="6159712" data-ismy="false" data-userid="26uiiu5" class="" data-is-block="false">
+				  <a href="javascript:void(0);" class="profile_info" data-username="ㅅㅇ" data-ori="https://p.kakaocdn.net/th/talkp/wnfpoBP6Wu/nXYoK33dWhLOWajkACJLb1/2ulsc9_640x640_s.jpg">
+				        <img src="//t1.kakaocdn.net/thumb/C48x48.q80/?fname=https%3A%2F%2Fp.kakaocdn.net%2Fth%2Ftalkp%2FwnfpoBP6Wu%2FnXYoK33dWhLOWajkACJLb1%2F2ulsc9_640x640_s.jpg" width="48" height="48" class="thumb_g" alt="" onerror="this.style.display='none'">
+				
+				  </a>
+				  <div class="unit_info">
+				    <em class="screen_out">작성자 : </em>
+				    <a href="#none" class="link_user">ㅅㅇ</a>
+				    <span class="bg_bar"></span>
+				    <span class="txt_item">후기</span>
+				    <span class="txt_desc">47</span>
+				    <span class="txt_item">별점평균</span>
+				    <span class="txt_desc">3.3</span>
+				      <span class="bg_bar"></span>
+				    <span class="screen_out">최종수정일 : </span>
+				    <span class="time_write">2022.09.01.</span>
+				  </div>
+				  <div class="star_info">
+				    <div class="grade_star size_s">
+				      <span class="ico_star star_rate">
+				        <span class="ico_star inner_star" style="width:80%;"></span>
+				      </span>
+				    </div>
+				  </div>
+				    <div class="wrap_likepoint">
+				      <span class="ico_comm ico_like2">추천포인트</span>
+				      <div class="group_likepoint">
+				          <span class="chip_likepoint">맛</span>
+				      </div>
+				    </div>
+				  <div class="comment_info">
+				      <p class="txt_comment"><span>웨이팅 안하면 감 맛있음</span><button type="button" class="btn_fold">더보기</button></p>
+				      <div class="append_item">
+				        <a href="#none" class="link_like">
+				          <span class="ico_comm ico_like"></span> 좋아요 <span class="num_g" style="display:none;">0</span>
+				        </a>
+				      </div>
+				  </div>
+				    <div class="wrap_util">
+				      <button type="button" class="btn_util">
+				        <span class="ico_comm ico_more">메뉴 더보기</span>
+				      </button>
+				      <div class="layer_util" data-commentid="6159712">
+				        <ul class="list_opt">
+				            <li><a href="#none" data-id="spamLink" class="link_util">신고</a></li>
+				        </ul>
+				      </div>
+				    </div>
+				</li>
+				<li data-id="6106398" data-ismy="false" data-userid="mujs5o" class="" data-is-block="false">
+				  <a href="javascript:void(0);" class="profile_info" data-username="코엑슈돌" data-ori="">
+				
+				  </a>
+				  <div class="unit_info">
+				    <em class="screen_out">작성자 : </em>
+				    <a href="#none" class="link_user">코엑슈돌</a>
+				    <span class="bg_bar"></span>
+				    <span class="txt_item">후기</span>
+				    <span class="txt_desc">75</span>
+				    <span class="txt_item">별점평균</span>
+				    <span class="txt_desc">2.5</span>
+				      <span class="bg_bar"></span>
+				    <span class="screen_out">최종수정일 : </span>
+				    <span class="time_write">2022.08.23.</span>
+				  </div>
+				  <div class="star_info">
+				    <div class="grade_star size_s">
+				      <span class="ico_star star_rate">
+				        <span class="ico_star inner_star" style="width:60%;"></span>
+				      </span>
+				    </div>
+				  </div>
+				    <div class="wrap_likepoint">
+				      <span class="ico_comm ico_like2">추천포인트</span>
+				      <div class="group_likepoint">
+				          <span class="chip_likepoint">가성비</span>
+				      </div>
+				    </div>
+				  <div class="comment_info">
+				      <p class="txt_comment"><span></span><button type="button" class="btn_fold">더보기</button></p>
+				      <div class="append_item">
+				        <a href="#none" class="link_like">
+				          <span class="ico_comm ico_like"></span> 좋아요 <span class="num_g" style="display:none;">0</span>
+				        </a>
+				      </div>
+				  </div>
+				    <div class="wrap_util">
+				      <button type="button" class="btn_util">
+				        <span class="ico_comm ico_more">메뉴 더보기</span>
+				      </button>
+				      <div class="layer_util" data-commentid="6106398">
+				        <ul class="list_opt">
+				            <li><a href="#none" data-id="spamLink" class="link_util">신고</a></li>
+				        </ul>
+				      </div>
+				    </div>
+				</li>
+		</ul>
+			<a href="#none" class="link_more"><span class="txt_more">후기 더보기</span><span class="ico_comm ico_more"></span></a>
+	</div>
+</div>
+
+        <div class="cont_review" data-viewid="review" data-root="">
+    <div class="particular_head">
+        <h3 class="tit_subject">리뷰</h3>
+            <span class="num_g">753<span class="screen_out">개</span></span>
+        <a href="#none" class="link_enroll" data-logtarget="" data-logevent="review,add_review">
+            <span class="ico_comm ico_enroll"></span>블로그 리뷰등록
+        </a>
+    </div>
+        <div class="wrap_list">
+            <strong class="screen_out">리뷰 리스트</strong>
+            <ul class="list_review">
+                    <li data-id="30203898" class="story_type2">
+                        <!-- 타이틀(클래스 tit_story)이 2줄 일 때 story_type2 추가 -->
+                        <a href="http://blog.naver.com/rkfk159/222860858865" target="_blank" class="link_review" data-logtarget="" data-logevent="review,list1">
+                            <div class="review_thumb exist_img">
+                                    <span class="item_photo" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C204x110/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMjA4MDhfNDIg%2FMDAxNjU5OTE1ODE3Mjk5.nSbQsShKS0wQh0WLTa4ajEc3vQHPAeTauXhwMpoiFxYg.3aM4mSwK5LoKElKwisu5JBZbfLc1kDU1-aE5HC_UawAg.JPEG.rkfk159%2FIMG_7363.jpg%3Ftype%3Dw966')"></span>
+                                    <span class="frame_g"></span>
+                            </div>
+                            <div class="review_story">
+                                <strong class="tit_story">미슐랭과 블루리본이 인정한 딤섬 맛집 팀호완</strong>
+                                <p class="txt_story">오늘은 미슐랭과 블루리본이 인정한 딤섬 맛집을 소개할게요. 미슐랭 맛집이라 하면 보통 5만원이 넘어가기 일쑤인데 만원도 안 되는 가격으로 미슐랭 맛집을 맛볼 수 있어요. 팀호완은 우리나라 미슐랭 맛집이 아니라 홍콩에서 넘어온 딤섬 레스토랑이에요. 블루리본 맛집을 떠나 사실 발렛으로 주차하기 편해 왔어요. ㅋ 세계적으로 인정받은 맛집답게 손님이 많더라구요. 팀호완은 전 세계 50개 가량 체인점이 있다 보니 이분들이 직접 만드는 건 아니고 전수자가 만들어요. ^^; 주말 오후 1시쯤 방문하니 30분쯤 웨이팅 하다 들어갔어요. 기다리는 동안 메뉴판을 확인하세요. 친절하게 어떻게 생긴 음식인지 사진을 첨부해 주셔서 음식을 고르기 편했어요. 차슈바오 번 팀호완은 딤섬 맛집으로 유명한데 홍콩식 호빵이 시그니처라길래 하</p>
+                            </div>
+                        </a>
+                        <span class="info_user">
+                            <span class="txt_user">맛보고 말한다ḷḷ 『맛톡』</span>
+                            <span class="bg_bar">|</span>
+                            <span class="txt_date">2022.08.29.</span>
+                        </span>
+                        <span class="frame_g"></span>
+                    </li>
+                    <li data-id="30196646" class="story_type2">
+                        <!-- 타이틀(클래스 tit_story)이 2줄 일 때 story_type2 추가 -->
+                        <a href="http://blog.naver.com/wltnrdld18/222860737155" target="_blank" class="link_review" data-logtarget="" data-logevent="review,list2">
+                            <div class="review_thumb exist_img">
+                                    <span class="item_photo" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C204x110/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMjA4MjdfNTMg%2FMDAxNjYxNTkxNzk2Njc1.Ma7ggrIfmRwPfDlBC4M_5OuTYiA74-VYtMgiunt9POYg.HeomYdJA5ez9kx4RAStTs3I1vznGwHEEj0puZx9f85sg.JPEG.wltnrdld18%2F20220826%25EF%25BC%25BF132748.jpg%3Ftype%3Dw773')"></span>
+                                    <span class="frame_g"></span>
+                            </div>
+                            <div class="review_story">
+                                <strong class="tit_story">서울 딤섬 맛집 팀호완 삼성점 예약 방문 / 미쉐린 가이드 서울 2022</strong>
+                                <p class="txt_story">서울 딤섬 맛집 팀호완 삼성점 예약 방문 / 미쉐린 가이드 서울 2022 저의 첫 해외여행은 홍콩, 자유해외여행 처음인 친구랑 둘다 자유로 갔었는데 3박4일에 마카오까지 아주 시간대비 잘놀았던 기억이 있어요. 좋은 추억을 가지고 다른 친구랑 또 놀러갔었는데 그때도 여전히 재밌더라구요. 가볍게 가기 좋은 장소 중 하나, 그리고 은근 이국적이면서도 한국인의 입맛과 잘맞는 음식으로 코비드가 끝나면 다시 한번 방문해보고 싶어요 예전에 먹었던 기억을 가지고 서울 딤섬 맛집 팀호완을 찾았어요. 홍콩을 대표하는 유명 레스토랑인데 한국에서도 쉽게 먹을 수 있어서 너무너무 좋네요. 오전 11시부터 웨이팅하는 곳이라 팀호완 삼성점 예약 미리 하시고 방문하는 것을 추천드려요 발렛 주차비는 참고로 3000원입니</p>
+                            </div>
+                        </a>
+                        <span class="info_user">
+                            <span class="txt_user">쌍촌동 스타래쉬(네일/속눈썹/연장)</span>
+                            <span class="bg_bar">|</span>
+                            <span class="txt_date">2022.08.29.</span>
+                        </span>
+                        <span class="frame_g"></span>
+                    </li>
+                    <li data-id="30211483" class="story_type2">
+                        <!-- 타이틀(클래스 tit_story)이 2줄 일 때 story_type2 추가 -->
+                        <a href="http://blog.naver.com/dksa456/222860363583" target="_blank" class="link_review" data-logtarget="" data-logevent="review,list3">
+                            <div class="review_thumb exist_img">
+                                    <span class="item_photo" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C204x110/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMjA4MjhfMzkg%2FMDAxNjYxNjgwMzI1MjE2.SzeCLCmxeMzuNx8L8QdUJ2jnqI2vjs_xj0eMYORRRfYg.RkQhYX9pIAgyYwvaAXHnHsmBdB-u8N7TSdRYxW8ANKgg.JPEG.dksa456%2Foutput_2659018168.jpg%3Ftype%3Dw580')"></span>
+                                    <span class="frame_g"></span>
+                            </div>
+                            <div class="review_story">
+                                <strong class="tit_story">딤섬의 진수, 미슐렝 맛집 “팀호완”</strong>
+                                <p class="txt_story">이번 주말엔 미슐렝 맛집으로 유명한 팀호완 삼성점에 다녀왔습니다. 팀호완 삼성점 서울특별시 강남구 봉은사로86길 30 1층 코엑스 바로 옆에 위치해 있어 삼성역과 봉은사역 모두 가깝습니다. 제 여자친구가 팀호완 극성팬이라 종종 방문하는데 단 한번도 웨이팅을 하지 않은 날이 없을 정도로 늘 문전성시를 이룹니다. 이번에 방문 했을 때도 오픈도 전에 줄이 있었습니다. 대신 회전율이 빠른 편이라 조금만 일찍 가시면 삼십분 이내에 들어가실 수 있습니다. 주문은 메뉴를 보고 김밥천국처럼 메뉴에 체크표시를 하면 됩니다. 차수바오 번입니다. 달달한 돼지갈비같은 속이 들어있습니다. 다른 메뉴에 비해 그냥 그랬습니다. 돼지갈비찜입니다. 진짜 야들야들 살살 녹습니다. 하나 주문해서 딤섬이랑 드시기 좋습니다. 부채교입니다. 부추</p>
+                            </div>
+                        </a>
+                        <span class="info_user">
+                            <span class="txt_user">포백입니다</span>
+                            <span class="bg_bar">|</span>
+                            <span class="txt_date">2022.08.28.</span>
+                        </span>
+                        <span class="frame_g"></span>
+                    </li>
+                    <li data-id="30137705" class="story_type2">
+                        <!-- 타이틀(클래스 tit_story)이 2줄 일 때 story_type2 추가 -->
+                        <a href="http://blog.naver.com/seong716/222857404248" target="_blank" class="link_review" data-logtarget="" data-logevent="review,list4">
+                            <div class="review_thumb exist_img">
+                                    <span class="item_photo" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C204x110/?fname=https%3A%2F%2Fpostfiles.pstatic.net%2FMjAyMjA4MTJfMTc0%2FMDAxNjYwMjYyNTI0Mjkx.-DFKHmEQ5aJMexedNPxsu6-PEdAyKhExL8zqkNnDc-sg.4otCxVcfSZBO-9c3LdrJVI3RX9R12oMkrKG_3xhH8M8g.JPEG.seong716%2FIMG_1514.jpg%3Ftype%3Dw966')"></span>
+                                    <span class="frame_g"></span>
+                            </div>
+                            <div class="review_story">
+                                <strong class="tit_story">미쉐린가이드 서울 2022받은 외국인에게도 핫한 팀호완</strong>
+                                <p class="txt_story">이번에 남자친구랑 서울로 휴가를 가면서 먹어볼 수 있는 새로운 메뉴들은 거의다 섭렵하려고 했던 것 같다 ㅋㅋㅋㅋㅋ 그래서인지 남자친구가 꽤나 강력하게 원했던, 서울 여행오는 외국인에게도 핫한 삼성동 팀호완 후기! 서울 미쉐린 가이드 삼성동 팀호완 후기 팀호완 삼성점 서울특별시 강남구 봉은사로86길 30 1층 중화권 유학 경험이 있는 나는 팀호완이나 딤딤섬 같은 딤섬 브랜드를 참 좋아한다. 현지보다 향신료 향이 강하진 않지만 샤오롱바오나 완탕면 같은 종류를 현지랑 거의 비슷하게 구현해 내는 곳이라서 먹다보면 유학시절 생각이 나기 때문! 근데 사실 이날은 예술의 전당에서 원래 연희동까지 가려다가.. 시간 관계상 안될 것 같아서 일정을 틀어버리는 바람에 둘다 많이 걷고 배고팠던 상태 ㅠㅠㅠ 그래서 팀호완이 얼</p>
+                            </div>
+                        </a>
+                        <span class="info_user">
+                            <span class="txt_user">라희타의 일상, 여행, 먹방 일기</span>
+                            <span class="bg_bar">|</span>
+                            <span class="txt_date">2022.08.25.</span>
+                        </span>
+                        <span class="frame_g"></span>
+                    </li>
+                    <li data-id="30082505" class="story_type2">
+                        <!-- 타이틀(클래스 tit_story)이 2줄 일 때 story_type2 추가 -->
+                        <a href="http://teamoney.tistory.com/3" target="_blank" class="link_review" data-logtarget="" data-logevent="review,list5">
+                            <div class="review_thumb exist_img">
+                                    <span class="item_photo" style="background-image:url('//img1.kakaocdn.net/cthumb/local/C204x110/?fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FPtK1H%2FbtrKhSjSWsn%2FLM7eumOXp2z4MtES5UVndK%2Fimg.jpg')"></span>
+                                    <span class="frame_g"></span>
+                            </div>
+                            <div class="review_story">
+                                <strong class="tit_story">삼성역 맛집 팀호완 다녀왔습니다!</strong>
+                                <p class="txt_story">안녕하세요! 잇님들~ 미쉐린 가이드에도 등재된 삼성역 맛집 팀호완입니다! 점심시간에 딤섬이 완탕이 먹고 싶어 왔습니다~ 정면 너무 일찍 도착해버려서 아직 오픈 전인 팀호완! 메뉴들 기다리는 동안 어떤 음식을 먹을지 도와주는 메뉴판! 오픈런! 11시 30분 오픈을 기다리는 수많은 오프런 인원들! 홍콩 탕수기 홍콩식 탕수기입니다~ 일반 탕수육보다 더 달달하네요! 계절야채 간장 베이스에 공심채! 완벽한 조합입니다. 중국에서 유학할 때 자주 먹었었죠~ 사천식 완탕 같이 간 인원들 모두에게 극호를 받았던 메뉴입니다! 특유의 사천향이 나는 소스에 완탕이라니! 이것 또한 완벽한 조합! 완탕면 이제부터 해장은 완탕면으로~ 시원한 국물로 회식 다음 날 필수로 드셔야 하는 메뉴! 하가우 사진 찍는 걸 기다려주지 않고 다 가져가 버린 하가우! 11시쯤 도착해서 미리 이름 적어두시면 오픈런 때 많이 기다리실 필요 없습니다. 주차장도 있습니다! </p>
+                            </div>
+                        </a>
+                        <span class="info_user">
+                            <span class="txt_user">요리하는 관리사</span>
+                            <span class="bg_bar">|</span>
+                            <span class="txt_date">2022.08.22.</span>
+                        </span>
+                        <span class="frame_g"></span>
+                    </li>
+                    <li data-id="30082216" class="story_type2">
+                        <!-- 타이틀(클래스 tit_story)이 2줄 일 때 story_type2 추가 -->
+                        <a href="http://blog.naver.com/skkarr/222793073070" target="_blank" class="link_review" data-logtarget="" data-logevent="review,list6">
+                            <div class="review_thumb">
+                            </div>
+                            <div class="review_story">
+                                <strong class="tit_story">[삼성역/맛집] 팀호완 예약 및 메뉴,브레이크타임 정보 :O (웨이팅없이 먹은 후기?)</strong>
+                                <p class="txt_story">?팀호완 삼성역점 가는방법 서울 강남구 봉은사로 86길 30 1층 ?팀호완 삼성역점 운영시간 매일 11:30~ 21:30 ⚠️브레이크타임 15:00~17:00 팀호완 차슈바오번 팀호완 메뉴 팀호완 삼성점 딤섬</p>
+                            </div>
+                        </a>
+                        <span class="info_user">
+                            <span class="txt_user">〔 Slow Log 〕</span>
+                            <span class="bg_bar">|</span>
+                            <span class="txt_date">2022.08.22.</span>
+                        </span>
+                        <span class="frame_g"></span>
+                    </li>
+            </ul>
+
+                <a href="#none" data-moreid="30082216" class="link_more">
+                    <!-- 리뷰 접기: link_close 추가-->
+                    <span class="txt_more">리뷰 더보기</span>
+                    <span class="ico_comm ico_more"></span>
+                </a>
+        </div>
+</div>
+
+        <div data-viewid="kakaostoryReview" data-root="" class="cont_review">
+    <div class="particular_head">
+        <h3 class="tit_subject">카카오스토리</h3>
+        <span class="num_g">12<span class="screen_out">개</span></span>
+    </div>
+    <div class="wrap_list">
+        <strong class="screen_out">카카오스토리 리뷰 리스트</strong>
+        <ul class="list_review list_kstory">
+                <li>
+                    <a href="https://story.kakao.com/_BCfly6/6IqSc0hIZZ8?from=kakaomap" class="link_review" data-logtarget="" data-logevent="kakaostoryreview,list1" target="_blank">
+                        <div class="review_thumb">
+                                <span class="item_photo" style="background-image:url('//img1.daumcdn.net/thumb/C204x204.q70/?fname=https%3A%2F%2Fstory-img.kakaocdn.net%2Fdn%2FuCEGm%2FhyNSLUKa3g%2FycdH9h8EwwpbY7k7UOrDH1%2Fimg.jpg%3Fwidth%3D1707%26height%3D1280%26avg%3D%252523838767%26v%3D2')"></span>
+                                    <span class="ico_comm ico_many">후기 사진 여러장</span>
+                            <span class="frame_g"></span>
+                        </div>
+                        <div class="review_story">
+                            <p class="txt_story">2022년 04월 02일 팀호완-삼성동 딤섬맛집이라고 갔는데 사람만 많아서 웨이팅 겁나하고 맛은 100점 만점에 75점정도?? 차슈바오 번(호빵모양),사천식 완탕+비빔면이 개인적으로는 맛이 있었음</p>
+                        </div>
+                    </a>
+                    <span class="info_user">
+                					<span class="txt_user">이태영</span>
+                					<span class="bg_bar">|</span>
+                					<span class="txt_date">2022.04.04.</span>
+                				</span>
+                    <span class="frame_g"></span>
+                </li>                <li>
+                    <a href="https://story.kakao.com/rickitt/cTP7mwUwaz9?from=kakaomap" class="link_review" data-logtarget="" data-logevent="kakaostoryreview,list2" target="_blank">
+                        <div class="review_thumb">
+                                <span class="item_photo" style="background-image:url('//img1.daumcdn.net/thumb/C204x204.q70/?fname=https%3A%2F%2Fstory-img.kakaocdn.net%2Fdn%2FbNYKtH%2FhyNB38GMA4%2FwH6g6i688KXYDzW0ci8zG0%2Fimg.jpg%3Fwidth%3D1920%26height%3D1363%26avg%3D%25252363626a%26v%3D2')"></span>
+                                    <span class="ico_comm ico_many">후기 사진 여러장</span>
+                            <span class="frame_g"></span>
+                        </div>
+                        <div class="review_story">
+                            <p class="txt_story">오랫만에 시추안하우스가려고 삼성동갔다가 코엑스서 밖으로 나가려니 좀 쌀쌀해서 ㅠ 안에 있는 딤딤섬 가려고 했는데 대기가 넘 길어...ㅠ 결국 밖에 #팀호완 으로 감 ㅋ 홍콩갈때마다 항상 갔던 팀호완 ㅋ 항상 먹던 #딤섬 들이랑 #완탕면 ㅋ 그리고 #콘지가 있어서 먹어 봄 콘지가 전에도 메뉴에 있었나??? 홍콩가면 항상 가던 또 다른 로컬맛집 라우푸키" 콘지가 정말 맛있는데 ㅠ 여기는 그 소고기콘지는 아니고 닭고기가 든 콘지다 ㅠ 완탕면도 라우푸키 근처 침차키" 완탕면이 정말 맛있는데...ㅠ 그리고 홍콩가면 젤 맛있게 먹는 소고기볶음면?은 우리나라에 파는데가 없나? 한번도 못봄 ㅠ 홍콩가고 싶다 ㅋㅋㅋ 오랫만에 딤섬먹으면서 홍콩추억하기...ㅋ</p>
+                        </div>
+                    </a>
+                    <span class="info_user">
+                					<span class="txt_user">오아시스의 밤</span>
+                					<span class="bg_bar">|</span>
+                					<span class="txt_date">2022.03.04.</span>
+                				</span>
+                    <span class="frame_g"></span>
+                </li>                <li>
+                    <a href="https://story.kakao.com/arom01/IPP0kOTjhyA?from=kakaomap" class="link_review" data-logtarget="" data-logevent="kakaostoryreview,list3" target="_blank">
+                        <div class="review_thumb">
+                                <span class="item_photo" style="background-image:url('//img1.daumcdn.net/thumb/C204x204.q70/?fname=https%3A%2F%2Fstory-img.kakaocdn.net%2Fdn%2FMOVDw%2FhyLTvZM7rC%2FJDIt6bmYeNA1V7Uv8uxgL0%2Fimg.jpg%3Fwidth%3D1440%26height%3D1920%26avg%3D%2525239d7750%26v%3D2')"></span>
+                                    <span class="ico_comm ico_many">후기 사진 여러장</span>
+                            <span class="frame_g"></span>
+                        </div>
+                        <div class="review_story">
+                            <p class="txt_story">팀호완 오랜만에 맛보는 홍콩~ 야호~</p>
+                        </div>
+                    </a>
+                    <span class="info_user">
+                					<span class="txt_user">arom</span>
+                					<span class="bg_bar">|</span>
+                					<span class="txt_date">2021.10.08.</span>
+                				</span>
+                    <span class="frame_g"></span>
+                </li>                <li>
+                    <a href="https://story.kakao.com/ninegray/hJ3Hm0PCDwA?from=kakaomap" class="link_review" data-logtarget="" data-logevent="kakaostoryreview,list4" target="_blank">
+                        <div class="review_thumb">
+                                <span class="item_photo" style="background-image:url('//img1.daumcdn.net/thumb/C204x204.q70/?fname=https%3A%2F%2Fstory-img.kakaocdn.net%2Fdn%2Fbh6IUb%2FhyJ3mxr7wI%2F36nqyDNtzJcSG7LNDGkKLK%2Fimg.jpg%3Fwidth%3D1920%26height%3D1920%26avg%3D%252523917059%26v%3D2')"></span>
+                                    <span class="ico_comm ico_many">후기 사진 여러장</span>
+                            <span class="frame_g"></span>
+                        </div>
+                        <div class="review_story">
+                            <p class="txt_story">#홍콩식딤섬 #홍콩미슐랭딤섬 #딤섬 맛이 예술이다. 열판도 먹을것 같다. 해외 음식 먹을 때마다 너무나 여행이 고프다 #여행갈증 #나는풍류가 #인생뭐있어</p>
+                        </div>
+                    </a>
+                    <span class="info_user">
+                					<span class="txt_user">김연슈</span>
+                					<span class="bg_bar">|</span>
+                					<span class="txt_date">2021.05.01.</span>
+                				</span>
+                    <span class="frame_g"></span>
+                </li>                <li>
+                    <a href="https://story.kakao.com/_K1lns/J9Dnh2RrLvA?from=kakaomap" class="link_review" data-logtarget="" data-logevent="kakaostoryreview,list5" target="_blank">
+                        <div class="review_thumb">
+                                <span class="item_photo" style="background-image:url('//img1.daumcdn.net/thumb/C204x204.q70/?fname=https%3A%2F%2Fstory-img.kakaocdn.net%2Fdn%2FcY6Qo%2FhyJmBbpGlZ%2FJ8SPYeMIxjavSHryKRtIAK%2Fimg.jpg%3Fwidth%3D1920%26height%3D1440%26avg%3D%252523363d3c%26v%3D2')"></span>
+                                    <span class="ico_comm ico_many">후기 사진 여러장</span>
+                            <span class="frame_g"></span>
+                        </div>
+                        <div class="review_story">
+                            <p class="txt_story">건강하게 삽시다~^^ Con mio marito #팀호완</p>
+                        </div>
+                    </a>
+                    <span class="info_user">
+                					<span class="txt_user">이승주</span>
+                					<span class="bg_bar">|</span>
+                					<span class="txt_date">2021.02.24.</span>
+                				</span>
+                    <span class="frame_g"></span>
+                </li>                <li>
+                    <a href="https://story.kakao.com/_fCp7k/gL51qeUmit0?from=kakaomap" class="link_review" data-logtarget="" data-logevent="kakaostoryreview,list6" target="_blank">
+                        <div class="review_thumb">
+                                <span class="item_photo" style="background-image:url('//img1.daumcdn.net/thumb/C204x204.q70/?fname=http%3A%2F%2Fdn-l0-story.kakao.co.kr%2Fdn%2Fcm0lNq%2FhyH04sWaYg%2FatvUqeez4UNnKCAa1DFlb0%2Fimg.jpg%3Fwidth%3D775%26height%3D952%26avg%3D%252523a79084%26v%3D2')"></span>
+                                    <span class="ico_comm ico_many">후기 사진 여러장</span>
+                            <span class="frame_g"></span>
+                        </div>
+                        <div class="review_story">
+                            <p class="txt_story">문열자마자 와봤다 기다리기 싫어서 홍콩에서 가보고~ 오랜만이야 #팀호완 #우육면 #차슈바오번 #딤섬 #timhowan #오오티디 #ootdfashion</p>
+                        </div>
+                    </a>
+                    <span class="info_user">
+                					<span class="txt_user">정두영</span>
+                					<span class="bg_bar">|</span>
+                					<span class="txt_date">2020.10.28.</span>
+                				</span>
+                    <span class="frame_g"></span>
+                </li>        </ul>
+            <a href="#none" class="link_more" data-moreid="105111549794840338"><span class="txt_more">카카오스토리 더보기</span><span class="ico_comm ico_more"></span></a>
+    </div>
+</div>
+        <div data-viewid="findway" data-root="" class="cont_findway">
+    <h3 class="tit_subject">찾아가는 길</h3>
+    <div class="findway_map">
+        <h4 class="screen_out">지도 보기</h4>
+        <div class="view_map" id="map" style="overflow: hidden; background: url(&quot;https://t1.daumcdn.net/mapjsapi/images/2x/bg_tile.png&quot;);"><div style="position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; touch-action: none; cursor: url(&quot;https://t1.daumcdn.net/mapjsapi/images/2x/cursor/openhand.cur.ico&quot;) 7 5, url(&quot;https://t1.daumcdn.net/mapjsapi/images/2x/cursor/openhand.cur.ico&quot;), default;"><div style="position: absolute; left: 158px; top: -57px;"><div style="position: absolute; z-index: 0;"></div><div style="position: absolute; z-index: 1; left: 0px; top: 0px;"><img src="https://map0.daumcdn.net/map_2d_hd/2205pfk/L5/493/228.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: -229px; top: 173px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map1.daumcdn.net/map_2d_hd/2205pfk/L5/493/229.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: 27px; top: 173px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map2.daumcdn.net/map_2d_hd/2205pfk/L5/493/230.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: 283px; top: 173px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map3.daumcdn.net/map_2d_hd/2205pfk/L5/493/231.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: 539px; top: 173px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map0.daumcdn.net/map_2d_hd/2205pfk/L5/494/228.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: -229px; top: -83px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map1.daumcdn.net/map_2d_hd/2205pfk/L5/494/229.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: 27px; top: -83px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map2.daumcdn.net/map_2d_hd/2205pfk/L5/494/230.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: 283px; top: -83px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map3.daumcdn.net/map_2d_hd/2205pfk/L5/494/231.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: 539px; top: -83px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map0.daumcdn.net/map_2d_hd/2205pfk/L5/495/228.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: -229px; top: -339px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map1.daumcdn.net/map_2d_hd/2205pfk/L5/495/229.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: 27px; top: -339px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map2.daumcdn.net/map_2d_hd/2205pfk/L5/495/230.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: 283px; top: -339px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"><img src="https://map3.daumcdn.net/map_2d_hd/2205pfk/L5/495/231.png" alt="" draggable="false" style="position: absolute; user-select: none; -webkit-user-drag: none; min-width: 0px; min-height: 0px; max-width: none; max-height: none; left: 539px; top: -339px; opacity: 1; transition-property: opacity; transition-duration: 0.2s; transition-timing-function: ease; width: 256px; height: 256px;"></div><div style="position: absolute; z-index: 1;"></div><div style="width: 638px; height: 258px; position: absolute; z-index: 1;"></div><div style="position: absolute; z-index: 1;"><svg version="1.1" style="stroke: none; stroke-dashoffset: 0.5; stroke-linejoin: round; fill: none; transform: translateZ(0px); position: absolute; left: -1434px; top: -459px; width: 3190px; height: 1290px;" viewBox="0 0 3190 1290"><defs></defs></svg></div><div style="position: absolute; z-index: 1; width: 100%; height: 0px; transform: translateZ(0px);"><div style="position: absolute; margin: -48px 0px 0px -17px; z-index: 999; left: 159px; top: 194px;"><img draggable="false" src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/rtn/ico_findway.png" alt="" title="" style="min-width: 0px; min-height: 0px; max-width: 99999px; max-height: none; border: 0px; display: block; position: absolute; user-select: none; -webkit-user-drag: none; clip: rect(0px, 66px, 50px, 30px); top: 0px; left: -30px; width: 70px; height: 70px;"></div><div style="position: absolute; margin: -17px 0px 0px -15px; z-index: 0; left: 117px; top: 221px;"><img draggable="false" src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/rtn/ico_findway.png" alt="" title="" style="min-width: 0px; min-height: 0px; max-width: 99999px; max-height: none; border: 0px; display: block; position: absolute; user-select: none; -webkit-user-drag: none; clip: rect(30px, 30px, 60px, 0px); top: -30px; left: 0px; width: 70px; height: 70px;"></div><div style="position: absolute; margin: -17px 0px 0px -15px; z-index: 0; left: 109px; top: 224px;"><img draggable="false" src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/rtn/ico_findway.png" alt="" title="" style="min-width: 0px; min-height: 0px; max-width: 99999px; max-height: none; border: 0px; display: block; position: absolute; user-select: none; -webkit-user-drag: none; clip: rect(30px, 30px, 60px, 0px); top: -30px; left: 0px; width: 70px; height: 70px;"></div><div style="position: absolute; margin: -17px 0px 0px -15px; z-index: 0; left: 175px; top: 133px;"><img draggable="false" src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/rtn/ico_findway.png" alt="" title="" style="min-width: 0px; min-height: 0px; max-width: 99999px; max-height: none; border: 0px; display: block; position: absolute; user-select: none; -webkit-user-drag: none; clip: rect(30px, 30px, 60px, 0px); top: -30px; left: 0px; width: 70px; height: 70px;"></div><div style="position: absolute; margin: -17px 0px 0px -15px; z-index: 0; left: 191px; top: 130px;"><img draggable="false" src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/rtn/ico_findway.png" alt="" title="" style="min-width: 0px; min-height: 0px; max-width: 99999px; max-height: none; border: 0px; display: block; position: absolute; user-select: none; -webkit-user-drag: none; clip: rect(30px, 30px, 60px, 0px); top: -30px; left: 0px; width: 70px; height: 70px;"></div><div style="position: absolute; margin: -17px 0px 0px -15px; z-index: 0; left: 214px; top: 241px;"><img draggable="false" src="//t1.daumcdn.net/localimg/localimages/07/2018/pc/rtn/ico_findway.png" alt="" title="" style="min-width: 0px; min-height: 0px; max-width: 99999px; max-height: none; border: 0px; display: block; position: absolute; user-select: none; -webkit-user-drag: none; clip: rect(30px, 30px, 60px, 0px); top: -30px; left: 0px; width: 70px; height: 70px;"></div></div></div></div><div style="position: absolute; cursor: default; z-index: 1; margin: 0px 6px; height: 19px; line-height: 14px; bottom: 0px; color: rgb(0, 0, 0); right: 0px;"><div style="color: rgb(0, 0, 0); text-align: center; font-size: 10px; float: right;"><div style="float: left; margin: 2px 3px 0px 4px; height: 6px; transition: width 0.1s ease 0s; border-top: none rgb(0, 0, 0); border-right: 2px solid rgb(0, 0, 0); border-bottom: 2px solid rgb(0, 0, 0); border-left: 2px solid rgb(0, 0, 0); border-image: initial; width: 58px;"></div><div style="float: left; margin: 0px 4px 0px 0px; font-family: AppleSDGothicNeo-Regular, 돋움, dotum, sans-serif; font-weight: bold; color: rgb(0, 0, 0);">250m</div></div><div style="margin: 0px 4px; float: right;"><a target="_blank" href="http://map.kakao.com/" title="Kakao 지도로 보시려면 클릭하세요." style="float: left; width: 32px; height: 10px;"><img src="https://t1.daumcdn.net/mapjsapi/images/2x/m_bi_b.png" alt="Kakao 지도로 이동" style="float: left; width: 32px; height: 10px; border: none;"></a><div style="font: 11px / 11px Arial, Tahoma, Dotum, sans-serif; float: left;"></div></div></div><div style="cursor: auto; position: absolute; z-index: 2; left: 0px; top: 0px;"></div></div><!-- 지도 영역 입니다. -->
+        <strong class="screen_out">지도 보기 탭 메뉴</strong>
+        <ul class="tab_map">
+            <li class="on"><a href="#none" class="link_tab link_mapview" data-logtarget="" data-logevent="waytogo,2D_view">지도뷰</a></li>
+            <li><a href="#none" class="link_tab link_skyview" data-logtarget="" data-logevent="waytogo,sky_view">스카이뷰</a></li>
+        </ul>
+        <div class="map_control">
+            <div class="bg_control bg_zoomin link_control">
+                <a href="#none" class="ico_comm ico_zoomin" data-logtarget="" data-logevent="waytogo,zoomin">확대하기</a>
+            </div>
+            <div class="bg_control bg_zoomout link_control">
+                <a href="#none" class="ico_comm ico_zoomout" data-logtarget="" data-logevent="waytogo,zoomout">축소하기</a>
+            </div>
+            <div class="bg_control bg_refresh link_control">
+                <a href="#none" class="ico_comm ico_refresh" data-logtarget="" data-logevent="waytogo,refresh">새로고침</a>
+            </div>
+            <div class="bg_control bg_full">
+                <a href="https://map.kakao.com?urlX=512565&amp;urlY=1114435&amp;urlLevel=3&amp;itemId=1770731230&amp;q=%ED%8C%80%ED%98%B8%EC%99%84%20%EC%82%BC%EC%84%B1%EC%A0%90&amp;map_type=TYPE_MAP" target="_blank" class="ico_comm ico_full" data-logtarget="" data-logevent="waytogo,largeview">전체화면</a>
+            </div>
+        </div>
+        <!-- 
+        <div class="map_control">
+            <a href="#none" class="link_control" data-logtarget data-logevent="waytogo,zoomin"><span class="ico_comm ico_zoomin">확대하기</span></a>
+            <a href="#none" class="link_control" data-logtarget data-logevent="waytogo,zoomout"><span class="ico_comm ico_zoomout">축소하기</span></a>
+            <a href="#none" class="link_control" data-logtarget data-logevent="waytogo,refresh"><span class="ico_comm ico_refresh">새로고침</span></a>
+        </div>
+        <a href="https://map.kakao.com?urlX=512565&urlY=1114435&urlLevel=3&itemId=1770731230&q=%ED%8C%80%ED%98%B8%EC%99%84%20%EC%82%BC%EC%84%B1%EC%A0%90&map_type=TYPE_MAP" target="_blank" class="link_full" data-logtarget data-logevent="waytogo,largeview"><span class="ico_comm ico_full">전체화면</span></a>
+        -->
+    </div>
+        <div class="station_wayout">
+            <h4 class="tit_findway">지하철역</h4>
+            <ul class="list_wayout">
+                    <li>
+                        <em class="txt_station"><a href="https://map.kakao.com?subwayId=SES0928" target="_blank" class="link_station" data-logtarget="" data-logevent="waytogo,subway">삼성중앙역</a></em>
+                            <span class="ico_traffic seoul_line9_small">9호선</span><!-- 호선별 대체 텍스트 부탁 드립니다. -->
+                        <span class="bg_bar">|</span>
+                        <span class="txt_wayout"><span class="num_wayout">5</span>번 출구 <span class="num_wayout txt_walk">도보 7분</span></span>
+                    </li>
+                    <li>
+                        <em class="txt_station"><a href="https://map.kakao.com?subwayId=SES0929" target="_blank" class="link_station" data-logtarget="" data-logevent="waytogo,subway">봉은사역</a></em>
+                            <span class="ico_traffic seoul_line9_small">9호선</span><!-- 호선별 대체 텍스트 부탁 드립니다. -->
+                        <span class="bg_bar">|</span>
+                        <span class="txt_wayout"><span class="num_wayout">7</span>번 출구 <span class="num_wayout txt_walk">도보 10분</span></span>
+                    </li>
+                    <li>
+                        <em class="txt_station"><a href="https://map.kakao.com?subwayId=SES0219" target="_blank" class="link_station" data-logtarget="" data-logevent="waytogo,subway">삼성역</a></em>
+                            <span class="ico_traffic seoul_line2_small">2호선</span><!-- 호선별 대체 텍스트 부탁 드립니다. -->
+                        <span class="bg_bar">|</span>
+                        <span class="txt_wayout"><span class="num_wayout">5</span>번 출구 <span class="num_wayout txt_walk">도보 13분</span></span>
+                    </li>
+            </ul>
+        </div>
+        <div class="station_ride check_list">
+            <h4 class="tit_findway">버스정류장</h4>
+                <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
+                    <strong class="tit_wayout">
+                        <a href="https://map.kakao.com?busStopId=11230581010" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
+                            <span class="txt_busstop">한별구립어린이집</span>
+                            <span class="txt_number"><span class="screen_out">정류장 번호: </span>(23203) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 202m</span>
+                        </a>
+                    </strong>
+                    <ul class="list_ride">
+                            <li>
+                                <em class="ico_traffic bus_green">지선</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">2415<span class="bg_bar">|</span>2416<span class="bg_bar">|</span>3011<span class="bg_bar">|</span>3411</span>
+                                    <a href="https://map.kakao.com?busStopId=11230581010" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                            <li>
+                                <em class="ico_traffic bus_town">마을</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">강남07<span class="bg_bar">|</span>강남08</span>
+                                    <a href="https://map.kakao.com?busStopId=11230581010" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                            <li>
+                                <em class="ico_traffic bus_direct">직행</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">500-2<span class="bg_bar">|</span>500-2N<span class="bg_bar">|</span>G3202</span>
+                                    <a href="https://map.kakao.com?busStopId=11230581010" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                    </ul>
+                </div>
+                <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
+                    <strong class="tit_wayout">
+                        <a href="https://map.kakao.com?busStopId=11230581005" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
+                            <span class="txt_busstop">한별구립어린이집</span>
+                            <span class="txt_number"><span class="screen_out">정류장 번호: </span>(23209) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 234m</span>
+                        </a>
+                    </strong>
+                    <ul class="list_ride">
+                            <li>
+                                <em class="ico_traffic bus_green">지선</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">2415<span class="bg_bar">|</span>2416<span class="bg_bar">|</span>3011</span>
+                                    <a href="https://map.kakao.com?busStopId=11230581005" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                            <li>
+                                <em class="ico_traffic bus_town">마을</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">강남07</span>
+                                    <a href="https://map.kakao.com?busStopId=11230581005" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                    </ul>
+                </div>
+                <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
+                    <strong class="tit_wayout">
+                        <a href="https://map.kakao.com?busStopId=11230581016" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
+                            <span class="txt_busstop">봉은사.코엑스북문/봉은사역그랜드인터컨티넨탈</span>
+                            <span class="txt_number"><span class="screen_out">정류장 번호: </span>(23191) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 252m</span>
+                        </a>
+                    </strong>
+                    <ul class="list_ride">
+                            <li>
+                                <em class="ico_traffic bus_blue">간선</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">342</span>
+                                    <a href="https://map.kakao.com?busStopId=11230581016" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                            <li>
+                                <em class="ico_traffic bus_green">지선</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">3411<span class="bg_bar">|</span>3412</span>
+                                    <a href="https://map.kakao.com?busStopId=11230581016" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                            <li>
+                                <em class="ico_traffic bus_airport">공항</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">6703</span>
+                                    <a href="https://map.kakao.com?busStopId=11230581016" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                            <li>
+                                <em class="ico_traffic bus_direct">직행</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">500-2<span class="bg_bar">|</span>500-2N<span class="bg_bar">|</span>G3202</span>
+                                    <a href="https://map.kakao.com?busStopId=11230581016" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                    </ul>
+                </div>
+                <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
+                    <strong class="tit_wayout">
+                        <a href="https://map.kakao.com?busStopId=BS455647" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
+                            <span class="txt_busstop">봉은사.롯데면세점</span>
+                            <span class="txt_number"><span class="screen_out">정류장 번호: </span>(23904) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 289m</span>
+                        </a>
+                    </strong>
+                    <ul class="list_ride">
+                            <li>
+                                <em class="ico_traffic bus_circle">순환</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">TOUR03</span>
+                                    <a href="https://map.kakao.com?busStopId=BS455647" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                    </ul>
+                </div>
+                <div class="ride_wayout"><!-- 지도에서 일치하는 정류장에 마우스 오버 했을 때 클래스 ride_on 추가 -->
+                    <strong class="tit_wayout">
+                        <a href="https://map.kakao.com?busStopId=BS449970" class="link_wayout" target="_blank" data-logtarget="" data-logevent="waytogo,busstop">
+                            <span class="txt_busstop">코엑스도심공항</span>
+                            <span class="txt_number"><span class="screen_out">정류장 번호: </span>(23801) <span class="bg_bar">|</span> <span class="screen_out">거리: </span> 289m</span>
+                        </a>
+                    </strong>
+                    <ul class="list_ride">
+                            <li>
+                                <em class="ico_traffic bus_airport">공항</em><!-- 버스 선별로 대체 텍스트 부탁 드립니다. -->
+                                <div class="bus_ride">
+                                    <span class="num_ride">6103</span>
+                                    <a href="https://map.kakao.com?busStopId=BS449970" target="_blank" class="btn_more hide" data-logtarget="" data-logevent="waytogo,busstop_more"><span class="ico_comm ico_more">더보기</span></a>
+                                </div>
+                            </li>
+                    </ul>
+                </div>
+        </div>
+</div>
+        <div id="photoList" class="map_layer hide"></div>
+        <div id="roughMap" class="map_layer hide">
+    <iframe data-id="frame" frameborder="0" border="0" class="frame" src="" style="width: 1017px; height: 693px;"></iframe>
+</div>
+
+        <div data-viewid="fiyLayer" data-root="" id="fiyModalLayer" style="display:none">
+    <div class="fiy_wrap">
+        <iframe frameborder="0" border="0" class="fiyFrame" src=""></iframe>
+    </div>
+    <div class="modal_bg"></div>
+</div>
+        <div data-viewid="fiyLoginLayer" data-root="" class="fiy_layer" style="display:none">
+    <div class="inner_fiy_layer">
+        <div class="layer_head"><strong class="tit_fiy">정보수정</strong></div>
+        <div class="layer_body">
+            <p class="desc_fiy">로그인을 하시면<br>요청 결과를 안내해드립니다</p>
+            <div class="wrap_btn">
+                <a href="#none" class="btn_fiy btn_kakao"><span class="inner_btn">카카오계정으로 로그인</span></a>
+            </div>
+            <button type="button" class="btn_fiy2">로그인 하지 않습니다</button>
+        </div>
+    </div>
+</div>
+        <div data-viewid="commentLayer" data-root="" class="evaluation_layer" style="display: none">
+  <div class="inner_layer">
+    <div class="layer_head"><strong class="tit_layer">팀호완 삼성점</strong></div>
+      <div class="layer_body">
+        <form action="#">
+          <fieldset>
+            <legend class="screen_out">후기작성</legend>
+            <div class="group_rate">
+              <div class="grade_rate">
+                <div class="grade_star size_l">
+                  <span class="ico_star star_rate">
+                    <span class="ico_star inner_star" style="width:0%"></span>
+                  </span>
+                </div>
+              </div>
+              <span class="info_rate">
+                <span class="screen_out">선택한 별점</span>
+                <span class="num_rate">0</span>/<span class="screen_out">선택 가능한 총 별점</span><span class="num_limit">5</span>
+              </span>
+            </div>
+            <div class="group_like"> <strong class="tit_group">이 장소의 추천포인트는?<span class="txt_guide">(중복선택 가능)</span></strong>
+              <div class="box_like">
+                  <button type="button" class="btn_like" data-name="맛" data-id="5">
+                    <span class="txt_like">맛</span><span class="ico_comm ico_like2"></span>
+                  </button>
+                  <button type="button" class="btn_like" data-name="가성비" data-id="1">
+                    <span class="txt_like">가성비</span><span class="ico_comm ico_like2"></span>
+                  </button>
+                  <button type="button" class="btn_like" data-name="친절" data-id="2">
+                    <span class="txt_like">친절</span><span class="ico_comm ico_like2"></span>
+                  </button>
+                  <button type="button" class="btn_like" data-name="분위기" data-id="3">
+                    <span class="txt_like">분위기</span><span class="ico_comm ico_like2"></span>
+                  </button>
+                  <button type="button" class="btn_like" data-name="주차" data-id="4">
+                    <span class="txt_like">주차</span><span class="ico_comm ico_like2"></span>
+                  </button>
+              </div>
+            </div>
+            <div class="box_evaluation">
+              <div class="group_revisit">
+                <p class="desc_revisit">재방문 의사가 있습니까?</p>
+                <button type="button" class="btn_like"><span class="ico_comm ico_check2"></span><span class="txt_like">네</span></button>
+              </div>
+              <div class="group_review">
+                <label for="tfReview" class="screen_out">후기 작성</label>
+                <textarea id="tfReview" name="tf_review" class="tf_review" placeholder="작성내용은 마이페이지와 장소상세에 노출되며 매장주를 포함한 다른 사용자들이
+볼 수 있으니, 서로를 배려하는 마음을 담아 작성해 주세요."></textarea>
+              </div>
+              <div class="group_upload">
+                <span class="thumb_upload">
+                  <label for="imgUpload" class="lab_upload">사진 등록하기</label>
+                  <input type="file" id="imgUpload" name="imgUpload" class="inp_upload" accept="image/jpeg, image/png">
+                </span>
+              </div>
+              <div class="group_etc">
+                <a href="https://kakaomap.tistory.com/358" target="_blank" class="link_notice">후기 작성 시 주의사항</a>
+                <span class="num_letter">
+                  <span class="screen_out">등록한 글자수: </span><span class="txt_len">0</span><span class="num_total"> / 2000</span></span>
+                
+              </div>
+            </div>
+            <div class="group_btn">
+              <button type="reset" class="btn_reset">취소</button>
+              <button type="submit" class="btn_submit">등록</button>
+            </div>
+          </fieldset>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+
+<hr class="hide">
+<div data-viewid="footer" data-root="" id="kakaoFoot" class="footer_mapdetail" role="contentinfo">
+    <div class="inner_mapdetail">
+        <h2 class="screen_out">서비스 이용정보</h2>
+        <a href="http://policy.daum.net/info/info" class="link_info" target="_blank" data-logtarget="" data-logevent="footer,term">서비스 약관/정책</a>
+        <span class="bg_bar"></span>
+        <a href="https://cs.kakao.com/requests?locale=ko&amp;service=101" class="link_info" target="_blank" data-logtarget="" data-logevent="footer,service">고객센터</a>
+        <span class="bg_bar"></span>
+        <a href="https://cs.daum.net/redbell/top.html" class="link_info" target="_blank" data-logtarget="" data-logevent="footer,report">권리침해 신고</a>
+        <span class="bg_bar"></span>
+        <a href="http://local.biz.daum.net/rainbow_core/ols/index.local" target="_blank" class="link_info" data-logtarget="" data-logevent="footer,ad">로컬광고</a>
+        <span class="bg_bar"></span>
+        <a href="http://kakaomap.tistory.com/category/%EC%95%8C%EB%A6%BD%EB%8B%88%EB%8B%A4/%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" target="_blank" class="link_info" data-logtarget="" data-logevent="footer,notice">공지사항<!--<span class="ico_comm ico_new">새글</span>--></a>
+                <span class="bg_bar"></span>
+                    <a href="#" data-id="fiyBtn" data-fiytype="detail" data-logtarget="" data-logevent="main_info,FIY" class="link_info">틀린정보 신고</a>
+        <small class="txt_copyright">Copyright © <a href="https://www.kakaocorp.com/page/" class="link_kakao" target="_blank">Kakao Corp.</a> All rights reserved.</small>
+    </div>
+</div><!-- 스크롤이 내려 왔을 때 클래스 lbar_on  -->
+        <div id="wrapMinidaum"></div>
+    </div>
+    <div id="daumWrap" style="display:none;">
+        <div id="daumContent">
+            <div id="shareContainer"></div>
+        </div>
+    </div>
+    <script type="text/javascript" src="//ssl.daumcdn.net/dmaps/map_js_init/v3.js"></script><script charset="UTF-8" src="https://t1.daumcdn.net/mapjsapi/js/main/4.4.6-fixed2/v3.js"></script>
+    <script type="text/javascript" src="//t1.daumcdn.net/tiara/js/v1/tiara.min.js"></script>
+    <script type="text/javascript" src="//t1.daumcdn.net/daumtop_deco/socialshare/socialshare_pc-2.4.3.js"></script>
+    <script>
+        window.ENV = 'PROD';
+        window.browserversion = 'chrome105';
+        
+        // 티아라 초기화
+        try {
+            TiaraTracker.getInstance().init({
+                svcDomain: 'place.map.kakao.com',
+                deployment: window.ENV === 'PROD' ? 'production' : 'dev'
+            });
+        } catch(e) {}
+        window.placeRestrictType = 'NONE'
+        window._cp = '';
+    </script>
+
+    
+        
+            <script type="text/javascript" src="//s1.daumcdn.net/svc/attach/U0301/cssjs/mm/1482483925476/Chart.min.js"></script>
+            <script type="text/javascript" src="//t1.daumcdn.net/kakaomapweb/place/jscss/pc.3c7dfd11.js"></script><iframe style="position:absolute;left:0;top:0;width:0;height:0;border:0" src="mapclick.html?_=1662085252656"></iframe>
+        
+    
+    <!--
+    <script>
+        var minidaum_options = {
+            disableTracker: true, // 미니다음에서 tiara 사용안함
+            bgType: "white",
+            enableLogoutRetun: true,
+            returnUrl: '',
+            disableHotissue: true,
+            disableLogo:true,
+            enableShield: false
+        };
+    </script>
+    <script async src="//go.daum.net/jsa_minidaum_pc.daum" charset="utf-8" type="text/javascript"></script>
+    -->
+
+
+</body></html>
