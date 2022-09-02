@@ -40,10 +40,8 @@ const fs = require("fs");
   });
   console.log(lists);
   //console.log(textContent);
-  //for (let i of lists) console.log(lists[i].attribs.style);
-  //   lists.each((index, list) => {
-  //     console.log(index);
-  //   });
+  for (let i = 0; i < lists.length; i++) console.log(lists[i].attribs.style);
+
   // 브라우저를 종료한다.
   //
   browser.close();

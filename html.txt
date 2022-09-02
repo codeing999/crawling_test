@@ -298,7 +298,7 @@ only screen and (min-resolution: 1.5dppx) {
             <div class="location_detail openhour_wrap"><!-- btn_more 클릭 했을 때 open_on 추가 -->
                 <div class="location_present">
                                 <strong class="tit_operation fst">
-                                        <span class="open_before">영업전</span>
+                                        <span class="open">영업중</span>
                                 </strong>
                                 
                                     <ul class="list_operation">
@@ -1393,7 +1393,7 @@ only screen and (min-resolution: 1.5dppx) {
     
         
             <script type="text/javascript" src="//s1.daumcdn.net/svc/attach/U0301/cssjs/mm/1482483925476/Chart.min.js"></script>
-            <script type="text/javascript" src="//t1.daumcdn.net/kakaomapweb/place/jscss/pc.3c7dfd11.js"></script><iframe style="position:absolute;left:0;top:0;width:0;height:0;border:0" src="mapclick.html?_=1662085252656"></iframe>
+            <script type="text/javascript" src="//t1.daumcdn.net/kakaomapweb/place/jscss/pc.3c7dfd11.js"></script><iframe style="position:absolute;left:0;top:0;width:0;height:0;border:0" src="mapclick.html?_=1662091173156"></iframe>
         
     
     <!--
